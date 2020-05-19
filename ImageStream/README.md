@@ -1,0 +1,1 @@
+trained on 50 thousand anime character pictures
