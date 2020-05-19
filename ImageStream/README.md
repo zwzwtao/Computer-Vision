@@ -5,7 +5,8 @@ Simply run the program.
 DEMO:
 
 Before convertion:
-<img src="https://github.com/zwzwtao/Computer-Vision/blob/master/ImageStream/img01.png" width=470 height=470>
+<img src="https://github.com/zwzwtao/Computer-Vision/blob/master/ImageStream/img01.png" width=300 height=300>
 
 After convertion:
-https://github.com/zwzwtao/Computer-Vision/blob/master/ImageStream/converted_img.png
+<img src="https://github.com/zwzwtao/Computer-Vision/blob/master/ImageStream/converted_img.png" width=300 height=300>
+
